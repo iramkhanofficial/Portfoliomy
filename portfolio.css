@@ -1,0 +1,51 @@
+body {
+    font-family: cursive;
+    padding: 0;
+position: relative;
+color: #0c0b0b;
+
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-shadow: white;
+}
+header {
+   
+    background-color: rgb(24, 1, 1);
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section {
+    padding: 40px 0;
+}
+
+section h2 {
+    color:  white;
+}
+
+#projects {
+    margin-bottom: 30px;
+    color: white;
+    
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+margin-right: 50px;
+margin-left: 50px;
+}
+#about{
+    text-align: center;
+    color: white;
+}
